@@ -1,0 +1,19 @@
+[
+  {
+    "encountertype": "VISIT",
+    "stage": "INTAKE",
+    "status": "PEND",
+    "appointmentstartdate": "2009-03-05T08:15:00-05:00",
+    "appointmentid": 1982,
+    "departmentid": 1,
+    "diagnoses": [],
+    "providerid": 22,
+    "encounterdate": "03/05/2009",
+    "encountervisitname": "New Patient Appointment",
+    "providerlastname": "Fay",
+    "encounterid": 41474,
+    "lastupdated": "11/18/2021",
+    "providerfirstname": "Skye",
+    "providerphone": "(555) 004-0271"
+  }
+]

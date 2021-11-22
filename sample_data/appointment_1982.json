@@ -1,0 +1,26 @@
+[
+  {
+    "date": "03/05/2009",
+    "appointmentid": "1982",
+    "starttime": "08:15",
+    "departmentid": "1",
+    "encounterstate": "PEND",
+    "appointmentstatus": "f",
+    "patientid": "1",
+    "duration": 30,
+    "encounterid": "41474",
+    "startcheckin": "11/18/2021 17:12:20",
+    "appointmentcopay": {
+      "collectedforother": 0,
+      "collectedforappointment": 0,
+      "insurancecopay": 0
+    },
+    "copay": 0,
+    "renderingproviderid": 22,
+    "appointmenttypeid": "8",
+    "appointmenttype": "New Patient Appointment",
+    "providerid": "22",
+    "chargeentrynotrequired": false,
+    "patientappointmenttypename": "New Patient Appointment"
+  }
+]

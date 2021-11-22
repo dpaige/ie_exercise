@@ -1,0 +1,46 @@
+[
+  {
+    "email": "test@sichevoy.com",
+    "departmentid": "1",
+    "portalaccessgiven": false,
+    "driverslicense": false,
+    "contactpreference_appointment_email": true,
+    "contactpreference_appointment_sms": false,
+    "contactpreference_billing_phone": true,
+    "contactpreference_announcement_phone": true,
+    "contactpreference_lab_sms": false,
+    "guarantoraddresssameaspatient": false,
+    "portaltermsonfile": false,
+    "status": "active",
+    "lastname": "Test",
+    "privacyinformationverified": false,
+    "primarydepartmentid": "1",
+    "contactpreference_lab_email": true,
+    "balances": [
+      {
+        "balance": 0,
+        "departmentlist": "1,21,102,145,148,150,157,162,166,168",
+        "providergroupid": 1,
+        "cleanbalance": true
+      }
+    ],
+    "contactpreference_announcement_sms": false,
+    "emailexists": true,
+    "patientphoto": false,
+    "contactpreference_billing_email": true,
+    "contactpreference_announcement_email": true,
+    "registrationdate": "05/18/2020",
+    "firstname": "Test",
+    "guarantorcountrycode": "USA",
+    "contactpreference_appointment_phone": true,
+    "patientid": "7848",
+    "dob": "10/10/1991",
+    "guarantorrelationshiptopatient": "1",
+    "contactpreference_billing_sms": false,
+    "countrycode": "USA",
+    "consenttotext": false,
+    "countrycode3166": "US",
+    "contactpreference_lab_phone": true,
+    "guarantorcountrycode3166": "US"
+  }
+]

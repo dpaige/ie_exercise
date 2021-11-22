@@ -1,0 +1,8 @@
+{
+  "practiceId": "195900",
+  "baseUrl": "https://api.preview.platform.athenahealth.com",
+  "tokenEndpoint": "/oauth2/v1/token",
+  "clientId": "[OBSCURED]",
+  "secret": "[OBSCURED]",
+  "idType": "MR"
+}
