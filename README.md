@@ -10,9 +10,13 @@ https://developer.redoxengine.com/data-models/Financial.html
 
 **athenahealth APIs**
 - POST: https://api.preview.platform.athenahealth.com/oauth2/v1/token
-- POST: https://api.preview.platform.athenahealth.com/v1/195900/appointments/[appointmentId]
+  - Documentation: https://docs.athenahealth.com/api/guides/authentication-and-url-locations
+- GET: https://api.preview.platform.athenahealth.com/v1/195900/appointments/[appointmentId]
+  - Documentation: https://docs.athenahealth.com/api/api-ref/appointment#Get-appointment-details  
 - GET: https://api.preview.platform.athenahealth.com/v1/195900/encounter/[appointmentId]/procedurecodes
+  - Documentation: https://docs.athenahealth.com/api/api-ref/procedure-codes#Get-list-of-procedure-codes-available-for-given-encounter 
 - POST: https://api.preview.platform.athenahealth.com/v1/195900/encounter/[appointmentId]/services
+  - Documentation: https://docs.athenahealth.com/api/api-ref/encounter-services#Create-a-new-service-attacted-to-the-billing-slip-of-an-encounter.
 
 **Details**
 
